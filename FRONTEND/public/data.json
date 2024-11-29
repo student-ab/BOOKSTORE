@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "divine",
+        "title": "lorem ipsum dolor sit amet",
+        "price": 100,
+        "category": "sport",
+         "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+       
+    },
+    {
+        "id": 2,
+        "name": "serenity",
+        "title": "consectetur adipiscing elit",
+        "price": 150,
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    },
+    {
+        "id": 3,
+        "name": "lumos",
+        "title": "sed do eiusmod tempor",
+        "price": 200,
+        "category": "electronics",
+         "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+
+    }, 
+    {
+        "id": 4,
+        "name": "nature",
+        "title": "incididunt ut labore et dolore",
+        "price": 80,
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+   
+
+    },
+    {
+        "id": 5,
+        "name": "cosmos",
+        "title": "magna aliqua ut enim",
+        "price": 300,
+        "category": "space",
+         "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+
+    },
+    {
+        "id": 6,
+        "name": "bliss",
+        "title": "ad minim veniam quis",
+        "price": 120,
+        "category": "wellness",
+         "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    },
+    {
+        "id": 7,
+        "name": "velocity",
+        "title": "nostrud exercitation ullamco",
+        "price": 90,
+        "category": "automobile",
+        "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    },
+    {
+        "id": 8,
+        "name": "spark",
+        "title": "laboris nisi ut aliquip",
+        "price": 75,
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    },
+    {
+        "id": 9,
+        "name": "flavor",
+        "title": "duis aute irure dolor",
+        "price": 50,
+        "category": "food",
+        "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    },
+    {
+        "id": 10,
+        "name": "pulse",
+        "title": "in reprehenderit in voluptate",
+        "price": 180,
+        "category": "free",
+         "image": "https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1732610873~exp=1732614473~hmac=f362a007cb70807d8e2a10870dec40150a15469d4ba830a811f9708d2e593e25&w=900"
+    }
+ 
+   
+
+]
